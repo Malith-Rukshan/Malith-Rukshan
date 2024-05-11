@@ -50,7 +50,7 @@
 <a href="https://archlinux.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
 
 ## 📊 Stats
-<img src="https://raw.githubusercontent.com/Malith-Rukshan/Malith-Rukshan/main/github-metrics.svg" alt="Metrics">
+<img src="/github-metrics.svg" alt="Metrics">
 
 ## 🤝 Connect with me
 <a href="https://telegram.me/MAlithRukshan" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
