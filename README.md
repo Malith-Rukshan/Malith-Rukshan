@@ -5,8 +5,8 @@
 - 🌱 Exploring & Learning: **Everything.**
 - 🔭 Open to collaborate on **Open Source** projects.
 - 💬 Ask me about **anything, I am happy to help.**
-- 👨‍💻 Some of my projects are available at *[here](https://singledevelopers.t.me/)*
-- 📫 Reach me at **hello@sdev.lk**
+- 👨‍💻 Some of my projects are available at *[malith.dev](https://malith.dev)*
+- 📫 Reach me at **hello@malith.dev**
 - ⚡ Fun fact: I'm **still a student**, but always coding!
 
 ## 🛠️ Languages and tools
