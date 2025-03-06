@@ -57,6 +57,3 @@
 <a href="https://www.instagram.com/singldeveloper/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
 <a href="https://twitter.com/SinglDeveloper" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"></a>
 <a href="https://youtube.com/@SDevLK" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="Youtube"></a>
-
-## 💰 Support Me
-<a href="https://ko-fi.com/malith" target="_blank" alt="KoFi"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
