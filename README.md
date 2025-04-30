@@ -57,3 +57,11 @@
 <a href="https://www.instagram.com/singldeveloper/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
 <a href="https://twitter.com/SinglDeveloper" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"></a>
 <a href="https://youtube.com/@SDevLK" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="Youtube"></a>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://telegram-card.vercel.app/?username=SingleDevelopers&theme=light" alt="Single Developers" style="width: 300px; max-width: 100%; height: auto;" />
+  <img src="https://telegram-card.vercel.app/?username=AlphaV2ray" alt="Alpha V2ray" style="width: 300px; max-width: 100%; height: auto;" />
+  <img src="https://telegram-card.vercel.app/?username=MOD_APPS_Stock" alt="@MOD_APPS_Stock" style="width: 300px; max-width: 100%; height: auto;" />
+</div>
+
+
