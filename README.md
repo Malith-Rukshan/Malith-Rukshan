@@ -62,6 +62,7 @@
   <img src="https://telegram-card.vercel.app/?username=SingleDevelopers&theme=light" alt="Single Developers" style="width: 300px; max-width: 100%; height: auto;" />
   <img src="https://telegram-card.vercel.app/?username=AlphaV2ray" alt="Alpha V2ray" style="width: 300px; max-width: 100%; height: auto;" />
   <img src="https://telegram-card.vercel.app/?username=MOD_APPS_Stock" alt="@MOD_APPS_Stock" style="width: 300px; max-width: 100%; height: auto;" />
+  <img src="https://telegram-card.vercel.app/?username=SingleMusicX" alt="@SingleMusicX" style="width: 300px; max-width: 100%; height: auto;" />
 </div>
 
 
