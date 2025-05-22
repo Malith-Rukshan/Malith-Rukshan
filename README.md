@@ -61,8 +61,6 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://t.me/SingleDevelopers" target="_blank"><img src="https://telegram-card.vercel.app/?username=SingleDevelopers" alt="Single Developers" style="width: 300px; max-width: 100%; height: auto;" /></a>
   <a href="https://t.me/AlphaV2ray" target="_blank"><img src="https://telegram-card.vercel.app/?username=AlphaV2ray" alt="Alpha V2ray" style="width: 300px; max-width: 100%; height: auto;" /></a>
-  <a href="https://t.me/MOD_APPS_Stock" target="_blank"><img src="https://telegram-card.vercel.app/?username=MOD_APPS_Stock" alt="@MOD_APPS_Stock" style="width: 300px; max-width: 100%; height: auto;" /></a>
-  <a href="https://t.me/SingleMusicX" target="_blank"><img src="https://telegram-card.vercel.app/?username=SingleMusicX" alt="@SingleMusicX" style="width: 300px; max-width: 100%; height: auto;" /></a>
 </div>
 
 
